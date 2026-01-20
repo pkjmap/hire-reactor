@@ -16,3 +16,4 @@ to determine whether it reflects the skills.
 - run `npm run dev` on root folder.
 - run `php artisan queue:work redis` on root folder.
 - setup a cron job on server machine using `* * * * * cd /path-to-project && php artisan schedule:run >> /dev/null 2>&1` command.
+- Then visit https://localhost:8000 to add clients, websites etc
