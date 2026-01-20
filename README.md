@@ -8,9 +8,10 @@ to determine whether it reflects the skills.
 ## How to install and run the project
 
 
-- git clone https://github.com/pkjmap/hire-reactor.
+- git clone https://github.com/pkjmap/hire-reactor
 - run `composer install`.
 - run `npm install` on root folder
+- Create a mysql database `hire_reactor`
 - run `php artisan migrate` on root folder.
 - run `php artisan serve` on root folder.
 - run `npm run dev` on root folder.
